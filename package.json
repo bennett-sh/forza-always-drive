@@ -1,0 +1,20 @@
+{
+  "name": "forza-always-drive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "forza-horizon": "^1.0.2",
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  }
+}
